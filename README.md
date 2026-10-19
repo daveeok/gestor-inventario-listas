@@ -41,6 +41,7 @@ WARININGS
 - Your data doen't save when you stop the porgram, this is a 1 sesion program.
 - Be carefull with the names of your products, try to put the names without upper keys
 - If you put a text in an number input the program is going to stop with an error, be carefull with this.
+- You moust be have at least one product registered to use the program without errors.
 
 ES - Inventory Simple Manager
 
@@ -84,3 +85,4 @@ ADVERTENCIAS
 - Tus datos no se guardan al cerrar el programa; se trata de un programa de una sola sesión.
 - Ten cuidado con los nombres de tus productos; intenta escribirlos sin mayúsculas.
 - Si introduces texto en un campo numérico, el programa se detendrá con un error; ten cuidado con esto.
+- Debes de tener al menos un dato registrado para poder usar el programa sin errores

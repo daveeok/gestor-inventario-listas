@@ -122,6 +122,7 @@ def option7():
     minimum = quantities.index(min(quantities))
     print(f"Tu producto con la mayor cantidad disponible es {products[maximum]} con {quantities[maximum]} unidades.")
     print(f"Tu producto con la menor cantidad disponible es {products[minimum]} con {quantities[minimum]} unidades.")
+    returnMenu()
 
 
 products = []
