@@ -1,5 +1,5 @@
 def ShowMenu():
-    print (f"""Bienvenido/a, seleccione una opción:
+    print (f"""Bienvenido/a al gestor de inventarios:
     1. Registrar un producto y su cantidad disponible
     2. Mostrar todos los productos con su cantidad.
     3. Buscar un producto por su nombre.
@@ -104,7 +104,7 @@ def option5():
             if "s" in confirmation:
                 productEliminated = products.pop(position)
                 quantities.pop(position)
-                print("se ha eliminado exitosamente.")
+                print(productEliminated, "se ha eliminado exitosamente.")
             else: returnMenu()
         else: print("El producto no existe.")
 
