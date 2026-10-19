@@ -41,7 +41,7 @@ WARININGS
 - Your data doen't save when you stop the porgram, this is a 1 sesion program.
 - Be carefull with the names of your products, try to put the names without upper keys
 - If you put a text in an number input the program is going to stop with an error, be carefull with this.
-- You moust be have at least one product registered to use the program without errors.
+- You must be have at least one product registered to use the program without errors.
 
 ES - Inventory Simple Manager
 
